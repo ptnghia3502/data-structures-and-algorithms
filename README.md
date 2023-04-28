@@ -38,32 +38,10 @@ I have implemented it with C# and console app.
 
 
 ## 📔 Some of Facts
-* There are 23 design patterns that were identified and documented in the book "Design Patterns: Elements of Reusable Object-Oriented Software" by the Gang of Four (Erich Gamma, Richard Helm, Ralph Johnson, and John Vlissides). </br>
-* These patterns are categorized into 3 main categories based on their purpose and functionality: </br>
-  * 1 - Creational Patterns: These patterns are concerned with object creation mechanisms, trying to create objects in a manner suitable to the situation.
-    * Abstract Factory
-    * Builder
-    * Factory Method
-    * Prototype
-    * Singleton
-  * 2 - Structural Patterns: These patterns are concerned with object composition and the relationships between objects, aiming to form larger structures from individual objects.
-    * Adapter
-    * Bridge
-    * Composite
-    * Decorator
-    * Facade
-    * Flyweight
-    * Proxy
-  * 3 - Behavioral Patterns: These patterns are concerned with object communication and how objects collaborate to perform tasks.
-    * Chain of Responsibility
-    * Command
-    * Interpreter
-    * Iterator
-    * Mediator
-    * Memento
-    * Observer
-    * State
-    * Strategy
-    * Template Method
-    * Visitor
-* Note: there are other design patterns that have been developed outside of these set, but the 23 patterns described above are the most commonly known and used. 
+* Data Structures and Algorithms are 2 fundamental concepts in computer science that are crucial for solving problems efficiently and effectively.
+
+* Data Structures are a way of organizing and storing data in a computer so that it can be accessed and manipulated efficiently. A good data structure helps in reducing the complexity of an algorithm and improves the performance of a program.
+
+* Algorithms are a set of rules or steps that are used to solve a problem or accomplish a task. They are designed to take inputs, process them, and produce an output. Efficient algorithms are important for solving complex problems, as they can significantly reduce the time and resources required to solve them.
+
+* Data structures and algorithms are closely related as the choice of data structure can impact the performance of an algorithm. For example, an algorithm that requires frequent insertions or deletions may perform better with a linked list, while an algorithm that requires frequent searches may perform better with a binary search tree.
