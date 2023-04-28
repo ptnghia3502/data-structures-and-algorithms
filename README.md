@@ -22,11 +22,19 @@ I have implemented it with C# and console app.
   * [Linear Search](./Algorithms/Search/LinearSearch)
 * [Graph](./Algorithms/Graph)
   * [Breadth-first Search](./Algorithms/Graph/Breadth-firstSearch)
-  * [Depth-firstSearch](./Algorithms/Graph/Depth-firstSearch)
+  * [Depth-first Search](./Algorithms/Graph/Depth-firstSearch)
   * [Dijkstra](./Algorithms/Graph/Dijkstra)
+* [Recursion](./Algorithms/Recursion/Recursion)
   
 ## 🏷️ List of Data Structures
 * [Array](./DataStructures/Array/Array)
+* [Linked List](./DataStructures/LinkedList/LinkedList)
+* [Queue](./DataStructures/Queue/Queue)
+* [Stack](./DataStructures/Stack/Stack)
+* [Heap](./DataStructures/Heap/Heap)
+* [Hash Table](./DataStructures/HashTable/HashTable)
+* [Graph](./DataStructures/Graph/UndirectedGraph)
+* [Tree](./DataStructures/Tree/BinarySearchTree)
 
 
 ## 📔 Some of Facts
